@@ -1,5 +1,6 @@
 # Demo RabbitMQ / Node / Socket IO / OpenFin / Angular 
 
+## Overview
 A basic process set that integrates data flowing through a rabbitMQ server combined with a NodeJS server that subsequently makes the data available via websockets (socket I/O) 
 
 ## Getting started 
@@ -60,7 +61,11 @@ The structure of the json the app expects is an object that contains a `demo` ke
 }
 ````
 		
+## Disclaimers
+* This is an open source project and all are encouraged to contribute.
+* Its possible that the repo is not actively maintained.
 
-## Questions?
-shoot an email to support@openfin.co
+## Support
+Please enter an issue in the repo for any questions or problems. 
+<br> Alternatively, please contact us at support@openfin.co
 
